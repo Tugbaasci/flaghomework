@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 50px;
+    
+}
+tr,td{
+    empty-cells: show;
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+table{
+    width: 32cm;
+    height: 32cm;
+    background-color: red;
+    border: 1px solid red;
+    box-shadow: 10px 10px 7px silver;
+} 
+.h6-u6{
+    width: 6cm;
+    height: 6cm;
+}
+.h7-u6{
+    width: 6cm;
+    height: 7cm;
+}
+.h7-u7{
+    width: 7cm;
+    height: 7cm;
+}
+.h6-u7{
+    width: 7cm;
+    height: 6cm;
+}
+#one, #two, #three, #four, #five {
+    background-color: white;
+}
