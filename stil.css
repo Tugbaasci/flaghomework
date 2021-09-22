@@ -1,0 +1,22 @@
+table{
+    width: 32cm;
+    height: 32cm;
+    background: red;
+    border-collapse: collapse;
+    box-shadow: 20px 20px 12px rgb(240, 87, 87);
+}
+td:nth-child(odd){
+    width: 6cm;
+}
+td:nth-child(even){
+    width: 7cm;
+}
+tr:nth-child(odd){
+    height: 6cm;
+}
+tr:nth-child(even){
+    height: 7cm;
+}
+.white{
+    background: white;
+}

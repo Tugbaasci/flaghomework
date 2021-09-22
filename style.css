@@ -1,19 +1,13 @@
-*{
-    box-sizing: border-box;
-    margin: 50px;
-    
-}
-tr,td{
-    empty-cells: show;
-    border: 1px solid red;
-    border-collapse: collapse;
+td{
+    background: red;
 }
 table{
     width: 32cm;
     height: 32cm;
-    background-color: red;
-    border: 1px solid red;
-    box-shadow: 10px 10px 7px silver;
+    box-shadow: 25px 25px 25px silver;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 80px;
 } 
 .h6-u6{
     width: 6cm;
